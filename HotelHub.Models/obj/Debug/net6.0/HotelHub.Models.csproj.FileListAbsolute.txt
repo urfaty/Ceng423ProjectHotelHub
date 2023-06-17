@@ -1,0 +1,24 @@
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\bin\Debug\net6.0\HotelHub.Models.deps.json
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\bin\Debug\net6.0\HotelHub.Models.dll
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\bin\Debug\net6.0\HotelHub.Models.pdb
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.csproj.AssemblyReference.cache
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.AssemblyInfoInputs.cache
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.AssemblyInfo.cs
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.csproj.CoreCompileInputs.cache
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.dll
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\refint\HotelHub.Models.dll
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.pdb
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\ref\HotelHub.Models.dll
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\bin\Debug\net6.0\HotelHub.Models.deps.json
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\bin\Debug\net6.0\HotelHub.Models.dll
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\bin\Debug\net6.0\HotelHub.Models.pdb
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.csproj.AssemblyReference.cache
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.AssemblyInfoInputs.cache
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.AssemblyInfo.cs
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.csproj.CoreCompileInputs.cache
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.dll
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\refint\HotelHub.Models.dll
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\HotelHub.Models.pdb
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Models\obj\Debug\net6.0\ref\HotelHub.Models.dll

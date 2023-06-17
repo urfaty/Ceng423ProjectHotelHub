@@ -1,0 +1,30 @@
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.csproj.AssemblyReference.cache
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.AssemblyInfoInputs.cache
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.AssemblyInfo.cs
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.csproj.CoreCompileInputs.cache
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Repository.deps.json
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Repository.dll
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Repository.pdb
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Models.dll
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Models.pdb
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.csproj.CopyComplete
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.dll
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\refint\HotelHub.Repository.dll
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.pdb
+C:\Users\MS\source\repos\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\ref\HotelHub.Repository.dll
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Repository.deps.json
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Repository.dll
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Repository.pdb
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Models.dll
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\bin\Debug\net6.0\HotelHub.Models.pdb
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.csproj.AssemblyReference.cache
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.AssemblyInfoInputs.cache
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.AssemblyInfo.cs
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.csproj.CoreCompileInputs.cache
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.csproj.CopyComplete
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.dll
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\refint\HotelHub.Repository.dll
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\HotelHub.Repository.pdb
+C:\Users\MS\source\repos\HotelHub.Project (2)\HotelHub.Project\HotelHub.Repository\obj\Debug\net6.0\ref\HotelHub.Repository.dll
