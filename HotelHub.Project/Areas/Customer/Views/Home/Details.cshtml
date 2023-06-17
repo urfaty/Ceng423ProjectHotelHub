@@ -1,0 +1,48 @@
+﻿@model HotelHub.Models.Cart
+
+<h1>Hotel Details</h1>
+<form asp-action="Details" method="post">
+    <div class="row">
+        <div class="col-4">
+            <img src="@Model.Item.Image" width="200" height="200"/>
+            <input type="hidden" asp-for="ItemId"/>
+        </div>
+        <div class="col-8">
+            <div class="row">
+                 <label asp-for="Item.Title">Hotel Name : @Model.Item.Title</label>
+            </div>
+            <div class="row">
+                  <label asp-for="Item.Description">Hotel Description : @Html.Raw(Model.Item.Description)</label>
+            </div>
+            <div class="row">
+                  <label asp-for="Item.Description">Hotel Price: @Model.Item.Price.ToString("0.00")</label>
+             </div>     
+             <div class="row">
+                     <label asp-for="Item.Category.Id">Stars: @Model.Item.Category.Title</label>
+             </div>
+             <div class="row">
+                      <label asp-for="Item.SubCategory.Id">City: @Model.Item.SubCategory.Title</label>
+                      </div>
+                      <div class="row">
+
+
+                             <label asp-for="Count">How Many Day You Will Stay</label>
+                              <input asp-for="Count" class="form-control" />
+                              <span asp-validation-for="Count" class="text-danger"></span>
+                          
+                    
+                     </div>
+                     <div class="row mt-2">
+                      
+                        
+                                <button class="btn btn-success" asp-action="Index" asp-controller="Home">Back to List</button>
+                                <button type="submit" class="btn btn-dark">Reservate</button>
+              
+
+                     
+                     </div>
+            
+          
+        </div>
+    </div>
+</form>
